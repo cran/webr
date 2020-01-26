@@ -13,7 +13,7 @@ To understand the concept of p value is very important. To teach the the distrib
 
 ## Homepage of this package
 
-https://cardiomoon.github.io/webr/
+https://cardiomoon.github.io/webr/index.html
 
 
 ## Package Installation
@@ -232,3 +232,8 @@ plot(x)
 
 <img src="https://raw.githubusercontent.com/cardiomoon/webr/master/figure/unnamed-chunk-9-1.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" width="90%" style="display: block; margin: auto;" />
  
+## Vignette for PieDonut() function
+
+<img src="https://raw.githubusercontent.com/cardiomoon/webr/master/figure/piedonut.png" title="piedonut plot" alt="plot of chunk unnamed-chunk-9" width="90%" style="display: block; margin: auto;" />
+
+http://rpubs.com/cardiomoon/398623
